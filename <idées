@@ -1,0 +1,17 @@
+# Idées du projet
+
+## Fonctionnalités à ajouter
+- [ ] Détection en temps réel
+- [ ] Sauvegarde des vidéos
+- [ ] Interface graphique
+
+## Questions à résoudre
+- Quelle caméra utiliser ?
+- Quel modèle YOLO choisir ?
+
+## Notes
+**12/11/2024 - Marie :** 
+J'ai testé YOLO v8, ça marche bien !
+
+**13/11/2024 - Pierre :**
+On pourrait ajouter une alerte sonore
